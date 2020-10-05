@@ -2,3 +2,6 @@
 /JenkinsServiceControl/JenkinsServiceControl/JenkinsServiceControl.csproj.user
 /JenkinsServiceControl/JenkinsServiceControl/bin
 /JenkinsServiceControl/JenkinsServiceControl/obj
+/ScmManagerServiceControl/packages
+/ScmManagerServiceControl/ScmManagerServiceControl/obj
+/ScmManagerServiceControl/ScmManagerServiceControl/bin
